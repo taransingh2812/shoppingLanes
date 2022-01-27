@@ -1,6 +1,5 @@
 /**
  * Name: Taran Preet Singh
- * Student Number: 000824301
  * 
  * I, Taran Preet Singh, confirm that this work of Assignment 5 belongs to me, It's my original work
  * and has not been copied from anyone.
