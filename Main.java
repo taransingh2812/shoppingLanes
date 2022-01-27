@@ -1,11 +1,11 @@
 /**
  * Name: Taran Preet Singh
  * Student Number: 000824301
- * Professor Name: Mark Yendt
+ * 
  * I, Taran Preet Singh, confirm that this work of Assignment 5 belongs to me, It's my original work
  * and has not been copied from anyone.
  *
- * The assignment 5 is an assignment that includes managing aisles inside a shopping store where we have fast and normal lanes
+ * It includes managing aisles inside a shopping store where we have fast and normal lanes
  * whose data is retrieved from a text file named CustomerData.txt, where all info regarding lanes and customers are given.
  * Using which the following code has been designed by me. It contains Two parts- A & B.
  * Part A contains managing the customers into the aisles and Part B gives the count of customers inside the store after
